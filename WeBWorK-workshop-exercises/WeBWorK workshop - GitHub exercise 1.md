@@ -12,17 +12,11 @@ This file is in the ubc-webwork-workshops repo on GitHub.
 
 You are going to modify this file by doing the following:
 
-1. Create a branch from this repo. 
-Go to “Branch:master” button (left hand side on the “Code” tab), type in a new name of the form "username-exercise-1", and click on “Create branch: "new_name" from master”.  Note that you can’t have spaces in your branch name.  
-
-2. Modify the file by adding a comment or question about this workshop so far. 
+1. Modify this file by adding a comment or question about this workshop so far. 
 Click on the pen icon at the top right of the document to start editing.  Type into the section for comments at the bottom of this document.  
 
-3. Commit the change.
-Type in a description of your change as a title for the commit (below the text area), select “Commit directly to the <name-of-your-branch> branch”, and click on “Commit Changes”.  
-
-4. Create a pull request for the change to be merged into the master branch.
-Go to the “Pull Requests” tab.  Click on “New Pull Request”. You may have to change your base and compare branches.  “base:” should be master.  “compare:” should be <name-of-your-branch>. You should see “Able to merge”; click on button to “Create pull request”. You will get a chance to rename your pull request (default is commit title). Tag a workshop facilitator (add “@adentremont” in the comments of the pull request).  Click “Create pull request” again.  
+2. Commit the change as a new branch.
+Scroll to the bottom of the page where a "Commit Changes" dialog appears. Type in a description of your change as a title for the commit (first box), and optionally add a longer description (second box). select “Create a new branch for this commit and start a pull request”, name your branch, and click on “Commit Changes”.  
 
 The facilitators will merge the pull requests as they come in.  You will be notified of the merge via email (if you have not changed your GitHub communication settings). 
 
